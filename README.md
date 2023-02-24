@@ -1,79 +1,48 @@
-# ```Alphabot-Api```
-<p align="center">
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/my-rest-api?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/my-rest-api?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/my-rest-api?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofficial/my-rest-api?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FRest-my-rest-api&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
 
--------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Zeeoneofc 😇 </h1>
+
+
+<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://github.com/zeeoneofficial.png" /></>
+  <img src="https://tenor.com/buoL8.gif" />
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 18 years old 
-- 🔭 I am not programmer
-
-## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/62887435047326"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/zeeoneofficial"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat" />
 
+- ♀️ My name is Sanzy
+- ⛩️ I am anime lovers !
+- 📚 I'm Just a Content Creator 
 </p>
 
-## ```HOW TO INSTALL```
-
-# Cyclic App
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeoneofficial)
-
-[`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
-
+------
+### Connect with me ☎️
 <p align="center">
-  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
+  <a href="https://wa.me/6281276698054"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/ZyyAnakBaik"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/@SANZYYT"><img src="https://img.shields.io/badge/YouTube-Sanzy YT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
+  <a name=SanzyYT&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/Hiisanzyy"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/@SANZYYT"><img src="https://img.shields.io/youtube/channel/subscribers/@SANZYYT?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=Hiisanzyy&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-# Railway App
-[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
-
-[`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
-
+### My Waifu 😼
 <p align="center">
-  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
+  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
 </p>
 
-# Replit App
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://replit.com)
+------
 
-[`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
+### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
+  <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
+------
 
-## ```Coffee ☕```
+### Github Stats 🚀
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+<p align="center"><a href="https://github.com/Hiisanzyy"><img src="https://github-readme-stats.vercel.app/api?username=Hiisanzy&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Hiisanzyy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiisanzyy&theme=radical&layout=compact"></a></p> 
 
-## ```Thanks To```
 
-- [`Zahir`]()
-- [`Eka`]()
-- [`Loli Killer`]()
-- [`Rynz`]()
-- [`Creative Team`]()
-- [`Danzzcoding`]()
-- [`ZeeoneOfc`]()
